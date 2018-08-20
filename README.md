@@ -6,3 +6,6 @@ http://css2sass.herokuapp.com/
 
 設計相關:
 https://material.io/
+
+參考視差滾動呈現方式的網站:
+https://smartslider3.com/
