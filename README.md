@@ -16,6 +16,7 @@ UX-Studio <https://uxstudioteam.com/ux-blog/>
 
 ### JS插件 ###
 製作圖表<https://www.chartjs.org/>
+切好切滿<https://splitting.js.org/guide.html#what-is-splitting>
 <br />
 ### Design ###
 Photopea <https://www.photopea.com/>
